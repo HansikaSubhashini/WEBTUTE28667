@@ -1,0 +1,46 @@
+<html>
+<head>
+</head>
+<body>
+  <ul>
+    <li>Car</li>
+    <li>Van</li>
+    <li>Bus</li>
+   </ul>
+  <ol type="i"> 
+    <li>Apple</li>
+    <li>Orange</li>
+    <li>Graphes</li>
+    <li>Bananna</li>
+</ol>
+<ol type ="I">
+    <li><b>Group A</b></li>
+
+ <ol type="i">
+    <li>Germany</li>
+    <li>France</li>
+    <li>Spain</li>
+</ol>
+    <li><b>Group B</b></li>
+   <ol type="i">
+     <li>Brazil</li>
+     <li>Argentina</li>
+     <li>Portugal</li>
+    </ol>
+  <li><b>Group C</b></li>
+    <ol type="i">
+      <li>Italy</li>
+      <li>Netharland</li>
+      <li>England</li>
+    </ol>
+</ol>
+    <ol reversed>
+    <li><b>Five</b></li>
+    <li><b>Four</b></li>
+    <li><b>Three</b></li>
+</ol>
+    
+  
+</body>
+</html>  
+     
